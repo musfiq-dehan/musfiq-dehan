@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+![Profile views counter](https://MusfiqDehan/github-profile-view-counter.svg)
 
 <br/>
 
@@ -64,4 +64,4 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Musfiq's github stats](https://github-readme-stats.vercel.app/api?username=MusfiqDehan&show_icons=true&hide_border=true)
