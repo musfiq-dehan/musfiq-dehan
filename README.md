@@ -6,6 +6,8 @@
 <a href=https://linkedin.com/in/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a>
 </p>
 
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+
 <br/>
 
 Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
@@ -23,8 +25,8 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 - 📫 How to reach me: geekyabhi12@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
-<hr>
+<br>
 
 <h4 align="center">Languages and Tools:</h4>  
-<p align="center"><img src=https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/></p>
+<p align="center"><img src=https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="25" height="25"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="25" height="25"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="25" height="25"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="25" height="25"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="25" height="25"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="25" height="25"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="25" height="25"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="25" height="25"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="25" height="25"/></p>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
