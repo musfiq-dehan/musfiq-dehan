@@ -1,5 +1,7 @@
 ### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
 
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+
 <br/>
 
 <a href="https://discord.gg/qUbApEc">
