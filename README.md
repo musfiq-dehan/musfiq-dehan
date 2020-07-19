@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
 
-![Profile views counter](https://MusfiqDehan/github-profile-view-counter.svg)
+![Visitor Count](https://profile-counter.glitch.me/{MusfiqDehan}/count.svg)
 
 <br/>
 
