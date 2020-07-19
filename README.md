@@ -1,7 +1,5 @@
 ### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
 
-![Visitor Count](https://profile-counter.glitch.me/{MusfiqDehan}/count.svg)
-
 <br/>
 
 <a href="https://discord.gg/qUbApEc">
@@ -29,7 +27,7 @@
   <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
