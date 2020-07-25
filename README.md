@@ -29,7 +29,8 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 <br>
 
 <h4 align="center"><i>Languages and Tools:</i></h4>  
-<p align="center"><img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="30" height="30"/></code> 
+<p align="center">
+  <code><img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="30" height="30"/></code> 
   <code><img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="30" height="30"/></code> 
   <code><img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="30" height="30"/></code> 
   <code><img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="30" height="30"/></code> 
