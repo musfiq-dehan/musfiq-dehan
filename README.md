@@ -15,7 +15,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
   
-***Talking about Personal Stuffs:***
+<!-- ***Talking about Personal Stuffs:***
 
 - 👨🏽‍💻 I’m currently solving problems on [HackerRank](https://github.com/MusfiqDehan/HackerRank), [Project-Euler](https://github.com/MusfiqDehan/Project-Euler) and [LeetCode](https://github.com/MusfiqDehan/LeetCode);
 - 🌱 I’m currently learning **JavaScript** and **Python**; 
@@ -24,7 +24,7 @@ Hi, I'm ***Md. Musfiqur Rahaman***, a Developer 🚀 from Bangladesh, currently,
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I like to ask many questions😀. You may feel irritated.
 - 📫 How to reach me: musfiqur.rahaman@northsouth.edu;
-- 📝<a download href="#">Resume: </a>
+- 📝<a download href="#">Resume: </a> -->
 
 <br>
 
