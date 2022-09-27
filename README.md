@@ -3,6 +3,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding Items in a JavaScript Array](https://blog.musfiqdehan.me/adding-items-in-a-javascript-array)
 - [How AI and Data Analytics will Change the Future of Bangladesh?](https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh)
 - [How can we make the people of our society more skilled and honest?](https://blog.musfiqdehan.me/how-can-we-make-the-people-of-our-society-more-skilled-and-honest)
 <!-- BLOG-POST-LIST:END -->
