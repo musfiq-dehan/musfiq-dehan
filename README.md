@@ -3,10 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Migrating my apps from Heroku to Railway](https://blog.musfiqdehan.me/migrating-my-apps-from-heroku-to-railway)
+- [Migrating my Django app from Heroku to Railway](https://blog.musfiqdehan.me/migrating-my-django-app-from-heroku-to-railway)
+- [Deleting Items from a JavaScript Array](https://blog.musfiqdehan.me/deleting-items-from-a-javascript-array)
 - [Adding Items in a JavaScript Array](https://blog.musfiqdehan.me/adding-items-in-a-javascript-array)
 - [How AI and Data Analytics will Change the Future of Bangladesh?](https://blog.musfiqdehan.me/how-ai-and-data-analytics-will-change-the-future-of-bangladesh)
-- [How can we make the people of our society more skilled and honest?](https://blog.musfiqdehan.me/how-can-we-make-the-people-of-our-society-more-skilled-and-honest)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
